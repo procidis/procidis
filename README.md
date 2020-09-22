@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is a new feature:
+
+![](https://komarev.com/ghpvc/?username=procidis)
+
 <!--
 **procidis/procidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
