@@ -2,6 +2,9 @@
 
 This is a new feature:
 
+[![Mumins's github stats](https://github-readme-stats.vercel.app/api?username=procidis&show_icons=true&theme=merko)](https://github.com/procidis/github-readme-stats)
+
+
 ![](https://komarev.com/ghpvc/?username=procidis)
 
 <!--
