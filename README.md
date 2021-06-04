@@ -13,7 +13,7 @@ Lahmacun we believe in.
 
 
 
-![](https://komarev.com/ghpvc/?username=procidis) Since: 22.09.2020
+![](https://komarev.com/ghpvc/?username=procidis)
 
 <!--
 **procidis/procidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
